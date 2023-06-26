@@ -25,6 +25,7 @@ const SplashScreen = () => {
                 </View>
             </View>
         </View>
+
     );
 };
 
